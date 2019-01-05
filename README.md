@@ -1,3 +1,3 @@
 # SnakeAI
 
-![](giphy.mp4)
+![](giphy.gif)
